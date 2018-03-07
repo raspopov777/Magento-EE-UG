@@ -159,15 +159,6 @@ Magento Cookies Used with Full Page Cache
     <td>Хешированный список продуктов, добавленных в список пожеланий, в формате:
         $ productId 1_ $ productId 2_ ..., _productId N</td> 
   </tr>
-</table>
-
-
-Magento Cookies Used with Full Page Cache (cont.)
-<table>
-  <tr>
-    <th>COOKIE NAME </th>
-    <th>COOKIE DESCRIPTION</th> 
-  </tr>
   <tr>
     <td>WISHLIST_CNT</td>
     <td>Хешированное количество элементов в списке пожеланий клиента в
