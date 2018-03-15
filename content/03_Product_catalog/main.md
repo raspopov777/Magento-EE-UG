@@ -99,10 +99,14 @@
 
 
 
-
-
-
 ### Managing Attributes
+Настройка полей даты и времени - `System > Configuration > CATALOG > Catalog > Date & Time Custom Options`
+
+
+
+
+
+
 ### Flat Catalog
 ### Creating Products
 ### Product Images
