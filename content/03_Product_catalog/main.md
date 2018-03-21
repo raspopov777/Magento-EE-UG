@@ -144,7 +144,9 @@ Use Content Disposition:
 
 ### Product Pricing
 
+Tier Price - используется для предоставления скидки на количество.
 
+Apply MAP - скрывать цену.
 
 ### Inventory
 ### Product Information
