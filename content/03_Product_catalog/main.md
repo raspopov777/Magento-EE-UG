@@ -149,4 +149,7 @@ Tier Price - используется для предоставления ски
 Apply MAP - скрывать цену.
 
 ### Inventory
+
+...
+
 ### Product Information
