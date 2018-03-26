@@ -21,7 +21,14 @@
     * [CH 17: Inventory](content/03_Product_catalog/main.md#inventory)
     * [CH 18: Product Information](content/03_Product_catalog/main.md#product-information)
 
-## Search & SEO
+* [Search & SEO](content/04_Search_&_SEO/maim.md)
+    * [CH 19: Storefront Search Tools ](content/04_Search_&_SEO/maim.md#storefront-search-tools)
+    * [CH 20: Catalog Search Configuration](content/04_Search_&_SEO/maim.md#catalog-search-configuration)
+    * [CH 21: Managing Search Terms ](content/04_Search_&_SEO/maim.md#managing-search-terms)
+    * [CH 22: SEO Best Practices](content/04_Search_&_SEO/maim.md#seo-best-practices)
+    * [CH 23: URL Redirects](content/04_Search_&_SEO/maim.md#url-redirects)
+
+
 ## Marketing & Promotions
 ## Content Elements
 ## Design & Theme
