@@ -8,7 +8,6 @@
     * [CH 7: Websites, Stores & Views](content/02_Basic_configuration/main.md#websites-stores-and-views)
     * [CH 8: Industry Compliance](content/02_Basic_configuration/main.md#industry-compliance)
 
-
 * [Product catalog](content/03_Product_catalog/main.md)
     * [CH 9: Navigation](content/03_Product_catalog/main.md#navigation)
     * [CH 10: Categories](content/03_Product_catalog/main.md#categories)
@@ -21,15 +20,27 @@
     * [CH 17: Inventory](content/03_Product_catalog/main.md#inventory)
     * [CH 18: Product Information](content/03_Product_catalog/main.md#product-information)
 
-* [Search & SEO](content/04_Search_&_SEO/maim.md)
-    * [CH 19: Storefront Search Tools ](content/04_Search_&_SEO/maim.md#storefront-search-tools)
-    * [CH 20: Catalog Search Configuration](content/04_Search_&_SEO/maim.md#catalog-search-configuration)
-    * [CH 21: Managing Search Terms ](content/04_Search_&_SEO/maim.md#managing-search-terms)
-    * [CH 22: SEO Best Practices](content/04_Search_&_SEO/maim.md#seo-best-practices)
-    * [CH 23: URL Redirects](content/04_Search_&_SEO/maim.md#url-redirects)
+* [Search & SEO](content/04_Search_&_SEO/main.md)
+    * [CH 19: Storefront Search Tools ](content/04_Search_&_SEO/main.md#storefront-search-tools)
+    * [CH 20: Catalog Search Configuration](content/04_Search_&_SEO/main.md#catalog-search-configuration)
+    * [CH 21: Managing Search Terms ](content/04_Search_&_SEO/main.md#managing-search-terms)
+    * [CH 22: SEO Best Practices](content/04_Search_&_SEO/main.md#seo-best-practices)
+    * [CH 23: URL Redirects](content/04_Search_&_SEO/main.md#url-redirects)
+
+* [Marketing & Promotions](content/05_Marketing_&_Promotions/main.md)
+    * [CH 24: Promotions](content/05_Marketing_&_Promotions/main.md#promotions)
+    * [CH 25: Shopping Tools](content/05_Marketing_&_Promotions/main.md#shopping-tools)
+    * [CH 26: Gift Options](content/05_Marketing_&_Promotions/main.md#gift-options)
+    * [CH 27: Gift Registries](content/05_Marketing_&_Promotions/main.md#gift-registries)
+    * [CH 28: Rewards & Loyalty](content/05_Marketing_&_Promotions/main.md#rewards-&-loyalty)
+    * [CH 29: Private Sales & Events](content/05_Marketing_&_Promotions/main.md#private-sales-&-events)
+    * [CH 30: Newsletters](content/05_Marketing_&_Promotions/main.md#newsletters)
+    * [CH 31: Sales Channels](content/05_Marketing_&_Promotions/main.md#sales-channels)
+    * [CH 32: Google Tools](content/05_Marketing_&_Promotions/main.md#google-tools)
+    
+     
 
 
-## Marketing & Promotions
 ## Content Elements
 ## Design & Theme
 ## Customers
