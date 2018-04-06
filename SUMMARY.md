@@ -36,7 +36,7 @@
     * [CH 29: Private Sales & Events](content/05_Marketing_&_Promotions/main.md#private-sales-&-events)
     * [CH 30: Newsletters](content/05_Marketing_&_Promotions/main.md#newsletters)
     * [CH 31: Sales Channels](content/05_Marketing_&_Promotions/main.md#sales-channels)
-    * [CH 32: Google Tools](content/05_Marketing_&_Promotions/main.md#google-tools)
+    * [CH 32: Google Tools](content/05_Marketing_&_Promotions/main.md#google-tools) 
     
      
 
