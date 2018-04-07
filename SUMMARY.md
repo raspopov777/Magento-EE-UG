@@ -38,10 +38,27 @@
     * [CH 31: Sales Channels](content/05_Marketing_&_Promotions/main.md#sales-channels)
     * [CH 32: Google Tools](content/05_Marketing_&_Promotions/main.md#google-tools) 
     
-     
+* [Content Elements](content/06_Content_Elements/main.md)
+    * [CH 33: Magento CMS](content/06_Content_Elements/main.md#magento-cms)
+    * [CH 34: Content Pages](content/06_Content_Elements/main.md#content-pages)
+    * [CH 35: Page Hierarchy](content/06_Content_Elements/main.md#page-hierarchy)
+    * [CH 36: Blocks](content/06_Content_Elements/main.md#blocks)
+    * [CH 37: Banners](content/06_Content_Elements/main.md#banners)
+    * [CH 38: Widgets](content/06_Content_Elements/main.md#widgets)
+    * [CH 39: Variables](content/06_Content_Elements/main.md#variables)
+    * [CH 40: Markup Tags](content/06_Content_Elements/main.md#markup-tags)
 
 
-## Content Elements
+
+
+
+
+
+
+
+
+
+
 ## Design & Theme
 ## Customers
 ## Sales & Orders
