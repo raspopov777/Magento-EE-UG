@@ -48,18 +48,14 @@
     * [CH 39: Variables](content/06_Content_Elements/main.md#variables)
     * [CH 40: Markup Tags](content/06_Content_Elements/main.md#markup-tags)
 
+* [Design & Theme](content/07_Design_&_Theme/main.md)
+    * [CH 41: Your Store Design](content/07_Design_&_Theme/main.md#your-store-design)
+    * [CH 42: Page Layout](content/07_Design_&_Theme/main.md#page-layout)
+    * [CH 43: Layout Updates](content/07_Design_&_Theme/main.md#layout-updates)
+    * [CH 44: Page Setup](content/07_Design_&_Theme/main.md#page-setup)
+    * [CH 45: Your Store's Theme](content/07_Design_&_Theme/main.md#your-store's-theme)
 
 
-
-
-
-
-
-
-
-
-
-## Design & Theme
 ## Customers
 ## Sales & Orders
 ## Payments
