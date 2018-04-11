@@ -51,22 +51,21 @@
 * [Design & Theme](content/07_Design_&_Theme/main.md)
     * [CH 41: Your Store Design](content/07_Design_&_Theme/main.md#your-store-design)
     * [CH 42: Page Layout](content/07_Design_&_Theme/main.md#page-layout)
-    * [CH 43: Layout Updates](content/07_Design_&_Theme/main.md#layout-updates)
-    * [CH 44: Page Setup](content/07_Design_&_Theme/main.md#page-setup)
-    * [CH 45: Your Store's Theme](content/07_Design_&_Theme/main.md#your-store's-theme)
+    * [CH 43: Page Setup](content/07_Design_&_Theme/main.md#page-setup)
+    * [CH 44: Your Store's Theme](content/07_Design_&_Theme/main.md#your-store's-theme)
 
 * [Customers](content/08_Customers/main.md)
-    * [CH 46: Customer Accounts](content/08_Customers/main.md#customer-accounts)
-    * [CH 47: Customer Groups](content/08_Customers/main.md#customer-groups)
-    * [CH 48: Customer Attributes](content/08_Customers/main.md#customer-attributes)
+    * [CH 45: Customer Accounts](content/08_Customers/main.md#customer-accounts)
+    * [CH 46: Customer Groups](content/08_Customers/main.md#customer-groups)
+    * [CH 47: Customer Attributes](content/08_Customers/main.md#customer-attributes)
 
 * [Sales & Orders](content/09_Sales_&_Orders/main.md)
-    * [CH 49: Managing Orders](content/09_Sales_&_Orders/main.md#managing-orders)
-    * [CH 50: Assisted Shopping](content/09_Sales_&_Orders/main.md#assisted-shopping)
-    * [CH 51: Order Fulfillment](content/09_Sales_&_Orders/main.md#order-fulfillment)
-    * [CH 52: Return Merchandise Authorization](content/09_Sales_&_Orders/main.md#return-merchandise-authorization)
-    * [CH 53: Store Credit & Refunds](content/09_Sales_&_Orders/main.md#store-credit-&-refunds)
-    * [CH 54: Sales Document Setup](content/09_Sales_&_Orders/main.md#sales-document-setup)
+    * [CH 48: Managing Orders](content/09_Sales_&_Orders/main.md#managing-orders)
+    * [CH 49: Assisted Shopping](content/09_Sales_&_Orders/main.md#assisted-shopping)
+    * [CH 50: Order Fulfillment](content/09_Sales_&_Orders/main.md#order-fulfillment)
+    * [CH 51: Return Merchandise Authorization](content/09_Sales_&_Orders/main.md#return-merchandise-authorization)
+    * [CH 52: Store Credit & Refunds](content/09_Sales_&_Orders/main.md#store-credit-&-refunds)
+    * [CH 53: Sales Document Setup](content/09_Sales_&_Orders/main.md#sales-document-setup)
 
 ## Payments
 ## Shipping
