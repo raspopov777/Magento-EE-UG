@@ -55,8 +55,12 @@
     * [CH 44: Page Setup](content/07_Design_&_Theme/main.md#page-setup)
     * [CH 45: Your Store's Theme](content/07_Design_&_Theme/main.md#your-store's-theme)
 
+* [Customers](content/08_Customers/main.md)
+    * [CH 46: Customer Accounts](content/08_Customers/main.md#customer-accounts)
+    * [CH 47: Customer Groups](content/08_Customers/main.md#customer-groups)
+    * [CH 48: Customer Attributes](content/08_Customers/main.md#customer-attributes)
 
-## Customers
+
 ## Sales & Orders
 ## Payments
 ## Shipping
