@@ -60,8 +60,14 @@
     * [CH 47: Customer Groups](content/08_Customers/main.md#customer-groups)
     * [CH 48: Customer Attributes](content/08_Customers/main.md#customer-attributes)
 
+* [Sales & Orders](content/09_Sales_&_Orders/main.md)
+    * [CH 49: Managing Orders](content/09_Sales_&_Orders/main.md#managing-orders)
+    * [CH 50: Assisted Shopping](content/09_Sales_&_Orders/main.md#assisted-shopping)
+    * [CH 51: Order Fulfillment](content/09_Sales_&_Orders/main.md#order-fulfillment)
+    * [CH 52: Return Merchandise Authorization](content/09_Sales_&_Orders/main.md#return-merchandise-authorization)
+    * [CH 53: Store Credit & Refunds](content/09_Sales_&_Orders/main.md#store-credit-&-refunds)
+    * [CH 54: Sales Document Setup](content/09_Sales_&_Orders/main.md#sales-document-setup)
 
-## Sales & Orders
 ## Payments
 ## Shipping
 ## Taxes
