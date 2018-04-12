@@ -67,7 +67,14 @@
     * [CH 52: Store Credit & Refunds](content/09_Sales_&_Orders/main.md#store-credit-&-refunds)
     * [CH 53: Sales Document Setup](content/09_Sales_&_Orders/main.md#sales-document-setup)
 
-## Payments
+* [Payments](content/10_Payments/main.md)
+    * [CH 54: Basic Payment Methods](content/10_Payments/main.md#basic-payment-methods)
+    * [CH 55: PayPal Payment Solutions](content/10_Payments/main.md#paypal-payment-solutions)
+    * [CH 56: Magento Secure Payment Bridge](content/10_Payments/main.md#magento-secure-payment-bridge)
+    * [CH 57: Payment Gateways](content/10_Payments/main.md#payment-gateways)
+    * [CH 58: Payment Services](content/10_Payments/main.md#payment-services)
+
+
 ## Shipping
 ## Taxes
 ## Store Operations
