@@ -41,5 +41,28 @@ __persistent shopping cart__ - отслеживает товары, которы
 Если архивирование __Orders, Invoices, Shipments, Credit Memos __ было включено, а потом отключено, то все архивные заказы будут восстановлены в предыдущем состоянии.
 
 ### Return Merchandise Authorization
+
+RMA доступен для:
+* Simple
+* Grouped
+* Configurable
+* Bundle product
+
+RMA недоступен для:
+* virtual products 
+* downloadable products 
+* gift cards
+
+
+Расходы на доставку RMA не включаются в отчеты о доставке.
+
+refund or exchange не обрабатываются через RMA.
+* Exchange. Можно создать credit memo для превоначального заказа (выбрав refund to store credit и исключив стоимость доставки с возмещения),
+создать новый exchenge items.
+* refund.
+
+Shipping labels для одной доставки может быть создана несколько раз, но когда сознается новый shipping labels, старые 
+shipping labels и tracking number удаляются и заемняются новыми.
+
 ### Store Credit & Refunds
 ### Sales Document Setup
