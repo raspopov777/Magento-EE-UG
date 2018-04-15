@@ -74,8 +74,13 @@
     * [CH 57: Payment Gateways](content/10_Payments/main.md#payment-gateways)
     * [CH 58: Payment Services](content/10_Payments/main.md#payment-services)
 
+* [Shipping](content/11_Shipping/main.md)
+    * [CH 59: Basic Shipping Methods](content/11_Shipping/main.md#basic-shipping-methods)
+    * [CH 59: Shipping Carriers](content/11_Shipping/main.md#shipping-carriers)
+    * [CH 59: Shipping Labels](content/11_Shipping/main.md#shipping-labels)
 
-## Shipping
+
+
 ## Taxes
 ## Store Operations
 

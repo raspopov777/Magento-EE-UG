@@ -128,3 +128,4 @@ __PAYMENT ACTION__
 если Authorize.Net не настроен на использование Magento Secure Payment Bridge.
 
 ### Payment Services
+
