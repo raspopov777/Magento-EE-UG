@@ -76,8 +76,8 @@
 
 * [Shipping](content/11_Shipping/main.md)
     * [CH 59: Basic Shipping Methods](content/11_Shipping/main.md#basic-shipping-methods)
-    * [CH 59: Shipping Carriers](content/11_Shipping/main.md#shipping-carriers)
-    * [CH 59: Shipping Labels](content/11_Shipping/main.md#shipping-labels)
+    * [CH 60: Shipping Carriers](content/11_Shipping/main.md#shipping-carriers)
+    * [CH 61: Shipping Labels](content/11_Shipping/main.md#shipping-labels)
 
 
 
