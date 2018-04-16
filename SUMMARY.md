@@ -80,8 +80,12 @@
     * [CH 61: Shipping Labels](content/11_Shipping/main.md#shipping-labels)
 
 
+* [Taxes](content/12_Taxes/main.md)
+    * [CH 62: Managing Taxes](content/12_Taxes/main.md#managing-taxes)
+    * [CH 63: Value Added Tax (VAT)](content/12_Taxes/main.md#value-added-tax-(vat))
+    * [CH 64: Quick Reference](content/12_Taxes/main.md#quick-reference)
+    
 
-## Taxes
 ## Store Operations
 
 * [Glossary](GLOSSARY.md)
