@@ -85,7 +85,12 @@
     * [CH 63: Value Added Tax (VAT)](content/12_Taxes/main.md#value-added-tax-(vat))
     * [CH 64: Quick Reference](content/12_Taxes/main.md#quick-reference)
     
-
-## Store Operations
+* [Store Operations](content/13_Store_Operations)
+    * [CH 65: Currency Rates](content/13_Store_Operations/main.md#currency-rates)
+    * [CH 66: Email Templates](content/13_Store_Operations/main.md#email-templates)
+    * [CH 67: Data Transfer](content/13_Store_Operations/main.md#data-transfer)
+    * [CH 68: Reports](content/13_Store_Operations/main.md#reports)
+    * [CH 69: Permissions](content/13_Store_Operations/main.md#permissions)
+    * [CH 70: Security](content/13_Store_Operations/main.md#security)
 
 * [Glossary](GLOSSARY.md)
