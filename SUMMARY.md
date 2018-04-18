@@ -1,5 +1,4 @@
 
-
 * [Getting started](content/01_Getting_started/main.md)
 
 * [Basic Configuration](content/02_Basic_configuration/main.md)
@@ -79,18 +78,27 @@
     * [CH 60: Shipping Carriers](content/11_Shipping/main.md#shipping-carriers)
     * [CH 61: Shipping Labels](content/11_Shipping/main.md#shipping-labels)
 
-
 * [Taxes](content/12_Taxes/main.md)
     * [CH 62: Managing Taxes](content/12_Taxes/main.md#managing-taxes)
     * [CH 63: Value Added Tax (VAT)](content/12_Taxes/main.md#value-added-tax-(vat))
     * [CH 64: Quick Reference](content/12_Taxes/main.md#quick-reference)
     
-* [Store Operations](content/13_Store_Operations)
+* [Store Operations](content/13_Store_Operations/main.md)
     * [CH 65: Currency Rates](content/13_Store_Operations/main.md#currency-rates)
     * [CH 66: Email Templates](content/13_Store_Operations/main.md#email-templates)
     * [CH 67: Data Transfer](content/13_Store_Operations/main.md#data-transfer)
     * [CH 68: Reports](content/13_Store_Operations/main.md#reports)
     * [CH 69: Permissions](content/13_Store_Operations/main.md#permissions)
     * [CH 70: Security](content/13_Store_Operations/main.md#security)
+
+* [System Operations](content/14_System_Operations/main.md)
+    * [CH 71: Index Management](content/14_System_Operations/main.md#index-management)
+    * [CH 72: Cache Management](content/14_System_Operations/main.md#cache-management)
+    * [CH 73: Alternate Media Storage](content/14_System_Operations/main.md#alternate-media-storage)
+    * [CH 74: Installing Solr Search](content/14_System_Operations/main.md#installing-solr-search)
+    * [CH 75: Content Staging](content/14_System_Operations/main.md#content-staging)
+    * [CH 76: Magento Connect](content/14_System_Operations/main.md#magento-connect)
+    * [CH 77: Web Services](content/14_System_Operations/main.md#web-services)
+    * [CH 78: System Tools](content/14_System_Operations/main.md#system-tools)
 
 * [Glossary](GLOSSARY.md)
