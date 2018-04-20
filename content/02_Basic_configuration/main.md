@@ -1,32 +1,11 @@
-### Store Admin
-
-Настроить время обновления уведомлений:
-1. System > Configuration
-2. ADVANCED > System
-3. Notifications
-
-Установить "Use HTTPS to Get Feed" если используется защищенный URL
 
 ### Store Details
 
-1. System > Configuration
-2. GENERAL > General
-    * __Store Information__
-    * __Locale Options__ -  настройка языка, часового пояса и дней рабочей недели.
-    * __State Options__ - выбрать страны в которых государство, провинция или регион являются обязательной частью почтового адреса.
-    * __Countries Options__ - выбрать страну в которой находится бизнес, страны из которых принимается оплата и страны в которых почтовый код не обязателен в адресе.
-
-
-  Каждый магазин может иметь до 5 различных почт: general contact, sales representative, customer support и 2 кастомных.
-  
-  * Настроить почты для каждого магазина - GENERAL > Store Email Addresses
-  * Настроить sales representative - SALES > Sales Email.
-  * Настроить Contact us - GENERAL > Contacts 
- 
+`System > Configuration > GENERAL > General`
+* __State Options__ - выбрать страны в которых государство, провинция или регион являются обязательной частью почтового адреса.
+* __Countries Options__ - выбрать страну в которой находится бизнес, страны из которых принимается оплата и страны в которых почтовый код не обязателен в адресе.
 
 ### Websites Stores and Views
-
-System > Manage Stores
 
 На одном веб-сайте может быть несколько магазинов, каждый из которых может иметь другое главное меню, выбор продукта и внешний вид.
 
@@ -34,9 +13,6 @@ System > Manage Stores
 * name - преднзначено для внутренней ссылки, может быть доменом.
 * code - используется на сервере чтобы указывать на домен.    
     
-Установить языковой пакет - System > Magento Connect > Magento Connect Manager.
-Изменить языковой пакет для Store View можно в locale Options 
-
 ##### Store URLs   
 
 Magento использует переменные для определения внутренних ссылок по отношению к базовому URL, что позволяет перемещать 
@@ -47,17 +23,12 @@ Magento использует переменные для определения 
 Настроить base URL можно:  `System > Configuration > GENERAL > Web`
 
 Настроить Admin URL можно через панель администратора: `System > Configuration > ADVANCED > Admin`,
-или альтернативным методом: 
-1. Поменять `# <frontName><![CDATA[admin]]></frontName>` в `app/etc/local.xml`.
-2. Отчистить кеш: `System > Cache Management , click the Flush Magento Cache`
-                                            
-          
+или альтернативным методом, поменяв `# <frontName><![CDATA[admin]]></frontName>` в `app/etc/local.xml`.
+    
 ### Industry Compliance
 
-The Payment Card Industry (PCI) - установила набор требований для предприятий, 
-которые принимают платежи с помощью кредитной карты через Интернет.
-
-Отредактировать текст Privacy policy: `CMS > Pages > Manage Content`.
+_The Payment Card Industry (PCI)_ - стандарт, который устанавливает требования для предприятий, 
+которые принимают платежи с помощью кредитной карты через интернет.
 
 ##### Cookie Law Compliance
 
@@ -66,16 +37,6 @@ The Payment Card Industry (PCI) - установила набор требова
  и с помощью вашего сайта косвенно давали разрешение на их использование.
 * __Expressed Consent__. Означает, что посетители должны выразить свое согласие до того, как файлы cookie будут сохранены компьютерах. 
 Если согласие не предоставлено, многие функции магазина будут недоступны, например Google Analytics.
-
-##### Cookie Restriction Mode
-
-Настроить можно в `System > Configuration > GENERAL > Web > Session Cookie Management`
-
-Чтобы файлы cookie были доступны в любом месте сайта, нужно ввести `/` в `Cookie Path`.
-
-Отредактировать текст Cookie Restriction Mode - `CMS > Static Blocks, find the Cookie Restriction Notice`.
-
-Отредактировать текст Privacy Policy - `CMS > Pages > Manage Content, find the Privacy Policy`.
 
 ##### Cookie Reference
 

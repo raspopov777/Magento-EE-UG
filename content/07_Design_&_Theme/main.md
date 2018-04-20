@@ -1,6 +1,3 @@
-### Your Store Design
-### Page Layout
-
 ### Layout Updates
 
 * `<block>`     Create new block.
@@ -8,7 +5,6 @@
 * `<action>`    Assign actions to blocks.
 * `<remove>`    Remove blocks.
 
-### Page Setup
 
 ### Your Store's Theme
 
